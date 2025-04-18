@@ -1,3 +1,7 @@
+//Approach - 1 Brute Force 
+// Time Complexity : O(n^2) 
+// Space Complexity : O(n)
+
 class solution {
     public int countPairs(int[] nums, int k) {
         int count = 0;
