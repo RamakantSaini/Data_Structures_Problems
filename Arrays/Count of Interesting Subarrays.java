@@ -1,5 +1,5 @@
 // Brute-Force Approach
- /* public long countInterestingSubarrays(List<Integer> nums, int modulo, int k) {
+  public long countInterestingSubarrays(List<Integer> nums, int modulo, int k) {
     long ans = 0;
    for(int i=0;i<nums.size();i++){
         for(int j=i;j<nums.size();j++){
@@ -12,7 +12,7 @@
     }
     return ans;
 }
-*/
+
 
 
 //Optimal Approach
